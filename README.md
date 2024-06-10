@@ -1,3 +1,5 @@
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simperpie&theme=monokai)
+
 # Hello, I'm simperpie! 👋
 
 Welcome to my GitHub profile where I'm learning to code and exploring different programming languages!
